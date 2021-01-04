@@ -1,0 +1,30 @@
+﻿Build started 31-05-2019 04:54:57 PM.
+     1>Project "c:\Users\psrab\documents\visual studio 2013\Projects\Day7\Day7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Day6\Source.cpp ..\Day6\disk_io.cpp ..\Day6\file_utils.cpp ..\Day6\input.cpp
+         input.cpp
+         file_utils.cpp
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\file_utils.cpp(7): warning C4101: 'no_of_blocks' : unreferenced local variable
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\file_utils.cpp(53): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\file_utils.cpp(91): warning C4101: 'size' : unreferenced local variable
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\file_utils.cpp(91): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\file_utils.cpp(118): warning C4101: 'size' : unreferenced local variable
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\file_utils.cpp(118): warning C4101: 'start' : unreferenced local variable
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\file_utils.cpp(118): warning C4101: 'blocks' : unreferenced local variable
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\file_utils.cpp(118): warning C4101: 'j' : unreferenced local variable
+         disk_io.cpp
+     1>c:\users\psrab\documents\visual studio 2013\projects\day6\disk_io.cpp(49): warning C4005: 'b' : macro redefinition
+                 c:\users\psrab\documents\visual studio 2013\projects\day6\disk_io.h(15) : see previous definition of 'b'
+         Source.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\psrab\documents\visual studio 2013\Projects\Day7\Debug\Day7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\psrab\documents\visual studio 2013\Projects\Day7\Debug\Day7.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\psrab\documents\visual studio 2013\Projects\Day7\Debug\Day7.lib" /MACHINE:X86 Debug\disk_io.obj
+         Debug\file_utils.obj
+         Debug\input.obj
+         Debug\Source.obj
+         Day7.vcxproj -> c:\users\psrab\documents\visual studio 2013\Projects\Day7\Debug\Day7.exe
+     1>Done Building Project "c:\Users\psrab\documents\visual studio 2013\Projects\Day7\Day7.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.90

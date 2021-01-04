@@ -1,0 +1,28 @@
+﻿Build started 26-05-2019 08:49:13 AM.
+     1>Project "c:\Users\psrab\documents\visual studio 2013\Projects\SummerCampProblems\SummerCampProblems.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp add_no_in_ll.cpp ll_loop_detection.cpp ll_utils.cpp
+         Source.cpp
+         Generating Code...
+         Compiling...
+         ll_utils.cpp
+         ll_loop_detection.cpp
+         add_no_in_ll.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\psrab\documents\visual studio 2013\Projects\SummerCampProblems\Debug\SummerCampProblems.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\psrab\documents\visual studio 2013\Projects\SummerCampProblems\Debug\SummerCampProblems.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\psrab\documents\visual studio 2013\Projects\SummerCampProblems\Debug\SummerCampProblems.lib" /MACHINE:X86 Debug\3_color_sort.obj
+         Debug\add_no_in_ll.obj
+         Debug\ll_loop_detection.obj
+         Debug\ll_utils.obj
+         Debug\matrix_spiral.obj
+         Debug\matrix_transpose.obj
+         "Debug\RandomLL-Hash.obj"
+         "Debug\RandomLL-NoHash.obj"
+         Debug\Source.obj
+         Debug\str_compression.obj
+         SummerCampProblems.vcxproj -> c:\users\psrab\documents\visual studio 2013\Projects\SummerCampProblems\Debug\SummerCampProblems.exe
+     1>Done Building Project "c:\Users\psrab\documents\visual studio 2013\Projects\SummerCampProblems\SummerCampProblems.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.65
